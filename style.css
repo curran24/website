@@ -1,11 +1,12 @@
 body {
-	background-color: #FAF3DD ;
+	background-color: #f5ebe0 ;
 }
 h1 {
 /*.indie-flower-regular {*/
   font-family: "Indie Flower", cursive;
   font-weight: 400;
   font-style: normal;
+  color:#a18e7a;
 }
 
 p,li {
@@ -13,12 +14,38 @@ p,li {
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+  color:#b09a8d;
 }
 
+.topnav {
+  background-color:#d5bdaf;
+  overflow: hidden;
+}
 
+.topnav a{
+  float: left;
+  color: #e3d5ca;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: "cormorant", serif;
+}
 
+.topnav a:hover {
+  background-color:#edede9;
+  color: ;
+}
 
+.topnav a.active {
+background-color:#edede9 ;
+color: ;
+}
 
+hr.new1{
+  border:2px solid #d6ccc2;
+  border-color:#d6ccc2;
+}
 
 /*indie flower
 Yorkten Slab Norm Thin ital*/
