@@ -20,6 +20,7 @@ p,li {
 .topnav {
   background-color:#d5bdaf;
   overflow: hidden;
+
 }
 
 .topnav a{
@@ -45,6 +46,16 @@ color: ;
 hr.new1{
   border:2px solid #d6ccc2;
   border-color:#d6ccc2;
+}
+
+a {
+  color:#d5bdaf;
+}
+
+a:hover {
+  color:#d6ccc2;
+}
+
 }
 
 /*indie flower
